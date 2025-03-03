@@ -50,11 +50,11 @@ kirito_hero = WarriorHero("Kirito", 100, 1000, 10)
 gandalf_hero = MageHero("Gandalf", 100, 1000, 10)
 
 
-# kirito_hero.action()
+kirito_hero.action()
 kirito_hero.introduce()
-# kirito_hero.attack()
+kirito_hero.attack()
 
-# gandalf_hero.action()
+gandalf_hero.action()
 gandalf_hero.introduce()
 
 
