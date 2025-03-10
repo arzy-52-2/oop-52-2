@@ -101,4 +101,3 @@ class SmsServiceAbc(ABC):
 # r = requests.get("https://fanat.geekstudio.kg/api/v1/block/shares/")
 #
 # print(r.json())
-

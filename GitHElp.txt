@@ -26,6 +26,20 @@ git commit -m "LS: Lesson 1 added learn python oop"
 команда для просмотра ветки
 git branch
 
+
+---------------------------------------------------------------------
+
+python -m venv name_vane
+py -m venv name_vane              | Команда для создания виртуального окружения
+python3 -m venv name_vane
+
+deactivate                | Команда для выхода из виртуального окружения
+
+source name_vane/bin/activate | Команда для активации виртуального окружения на Mac OS Linux
+
+name_vane\Scripts\activate   | Команда для активации виртуального окружения на Windows
+---------------------------------------------------------------------
+
 Команда для отправки коммита в репозитории
 git push origin main
 
