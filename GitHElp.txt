@@ -30,6 +30,16 @@ git commit -m "LS: Lesson 1 added learn python oop"
 git branch
 
 
+Команда для создания ветки
+git checkout -b name_branch        | Создание ветки и переход к ней
+git branch name_branch              | Создание ветки
+
+Команда для перехода в ветку
+git checkout name_branch
+git switch name_branch
+
+
+
 ---------------------------------------------------------------------
 
 python -m venv name_vane
@@ -75,6 +85,6 @@ rm name_file     | удаление файла
 
 clear    | очистка терминала
 
-222
 
 
+new update code
