@@ -83,3 +83,22 @@ print(list2.sort())
 
 
 
+
+
+
+
+
+def test():
+    a = 1
+    b = 1
+    c = "test"
+    d = "test"
+    f = []
+    s = ()
+    
+    
+    print(id(1))
+    print(id(a))
+    print(id(b))
+    
+test()
